@@ -4,9 +4,8 @@ Login to Sliide news reader and see content based on user role
 
 ## Requirements
 
-Minimum android SDK version 26
-
-Permissions : Internet
+ - Minimum android SDK version 26
+ - Permissions : Internet
 
 ## Features
 
